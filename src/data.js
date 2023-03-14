@@ -34,7 +34,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "I'm graduating in May 2023 and looking forward to an exciting career in the tech industry. I have experience with a range of programming languages, including C#, Java, C++, and Python. I'm highly motivated and always eager to learn new technologies and best practices.";
 
 /* Skills
  ************************************************************** 
