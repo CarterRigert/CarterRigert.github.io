@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.38730cbb.css",
-    "main.js": "/static/js/main.a688d4c1.js",
+    "main.js": "/static/js/main.07743884.js",
     "static/js/787.784a9f2c.chunk.js": "/static/js/787.784a9f2c.chunk.js",
     "static/media/TeamTradingFloor.jpg": "/static/media/TeamTradingFloor.680c749481a38be9e01d.jpg",
     "static/media/wenlin.jpg": "/static/media/wenlin.ce3a9d786667546b98e8.jpg",
@@ -9,15 +9,15 @@
     "static/media/Xiali.jpg": "/static/media/Xiali.a3c83507804e74d4dc74.jpg",
     "static/media/ash.jpg": "/static/media/ash.6f75bbc9dab5f0ff6b32.jpg",
     "static/media/tutorial.png": "/static/media/tutorial.af5c189b2854dd5594cd.png",
-    "static/media/system.png": "/static/media/system.07089d7d3b1dbb525b60.png",
     "static/media/recommendation.png": "/static/media/recommendation.d444434506f3357f5c3c.png",
+    "static/media/system.jpg": "/static/media/system.91d4130ad3493515a431.jpg",
     "index.html": "/index.html",
     "main.38730cbb.css.map": "/static/css/main.38730cbb.css.map",
-    "main.a688d4c1.js.map": "/static/js/main.a688d4c1.js.map",
+    "main.07743884.js.map": "/static/js/main.07743884.js.map",
     "787.784a9f2c.chunk.js.map": "/static/js/787.784a9f2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38730cbb.css",
-    "static/js/main.a688d4c1.js"
+    "static/js/main.07743884.js"
   ]
 }
