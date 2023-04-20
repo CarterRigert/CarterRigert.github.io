@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\tradingfloor",
+    "\\tradingfloor\\src",
+    "\\tradingfloor\\src\\components",
+    "\\tradingfloor\\src\\components\\Css"
   ],
-  "SelectedNode": "\\C:\\Users\\Carte\\Source\\Repos\\CarterRigert.github.io",
+  "SelectedNode": "\\tradingfloor\\src\\components\\About.js",
   "PreviewInSolutionExplorer": false
 }
